@@ -2,6 +2,7 @@ import SignUp from "./components/SignUp";
 import Login from "./components/Login";
 import { Route, Switch, Redirect } from "react-router-dom";
 
+
 function App() {
   return (
     <>
