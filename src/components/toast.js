@@ -11,6 +11,7 @@ export const notify = (text, type) => {
       draggable: true,
       progress: undefined,
     });
+    
   } else if (type === "warning") {
     toast.warn(text, {
       position: "top-right",

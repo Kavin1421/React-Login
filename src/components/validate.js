@@ -40,3 +40,4 @@ export const validate = (data, type) => {
 
   return errors;
 };
+
